@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"5d5f707e1fdbe7d3","x":-189,"y":40,"width":250,"height":60,"type":"text","text":"Item"},
+		{"id":"4877f9301011b34b","x":200,"y":40,"width":250,"height":60,"type":"text","text":"player walks over item"},
+		{"id":"36daf0334a67f642","x":580,"y":40,"width":250,"height":60,"type":"text","text":"item is added to inventory"},
+		{"id":"bf96b6ae8e5680cd","x":960,"y":40,"width":250,"height":60,"type":"text","text":"item disappears"},
+		{"id":"b4f9aa0e48251aa9","x":200,"y":-320,"width":250,"height":60,"type":"text","text":"items have different classes"},
+		{"id":"a34e8cb41c010f1d","x":960,"y":-680,"width":250,"height":60,"type":"text","text":"consumables need to be added and subtracted"},
+		{"id":"61868d178078fbd8","x":580,"y":-680,"width":250,"height":60,"type":"text","text":"consumable"},
+		{"id":"f4d68981cd13162f","x":960,"y":-560,"width":250,"height":60,"type":"text","text":"armor can be equipped and unequipped"},
+		{"id":"582d01c2e35ba20c","x":960,"y":-440,"width":250,"height":60,"type":"text","text":"they have defense values that are given to player"},
+		{"id":"221ec8c451284d5d","x":580,"y":-500,"width":250,"height":60,"type":"text","text":"armor"},
+		{"id":"5322704e75254b26","x":960,"y":-320,"width":250,"height":60,"type":"text","text":"damage value"},
+		{"id":"bb3dbead2f8e3858","x":960,"y":-200,"width":250,"height":60,"type":"text","text":"length"},
+		{"id":"e1fb7842367e23b3","x":960,"y":-80,"width":250,"height":60,"type":"text","text":"type"},
+		{"id":"9a2d43da96bbfbcd","x":580,"y":-200,"width":250,"height":60,"type":"text","text":"weapons"},
+		{"id":"e19e59944c52f163","x":1340,"y":-80,"width":250,"height":60,"type":"text","text":"behavior changes based on what weapon it is"},
+		{"id":"6dfb87d82fb8f334","x":-840,"y":-380,"width":250,"height":60,"type":"text","text":"Inventory"},
+		{"id":"be4030f67bd9cf38","x":-318,"y":-552,"width":250,"height":60,"type":"text","text":"consumables"},
+		{"id":"b5a1a4b4be7a60f3","x":-425,"y":-391,"width":250,"height":60,"type":"text","text":"weapons"},
+		{"id":"417716805a1daa4b","x":-445,"y":-283,"width":250,"height":60,"type":"text","text":"armor"},
+		{"id":"3830a929e64b23a5","x":-476,"y":-155,"width":250,"height":60,"type":"text","text":"spells"}
+	],
+	"edges":[
+		{"id":"b2ff21dac4e4ec0a","fromNode":"5d5f707e1fdbe7d3","fromSide":"right","toNode":"4877f9301011b34b","toSide":"left"},
+		{"id":"68ee69df460c148c","fromNode":"4877f9301011b34b","fromSide":"right","toNode":"36daf0334a67f642","toSide":"left"},
+		{"id":"f2f541a7c863f66b","fromNode":"36daf0334a67f642","fromSide":"right","toNode":"bf96b6ae8e5680cd","toSide":"left"},
+		{"id":"60b7e9dd8cd96371","fromNode":"5d5f707e1fdbe7d3","fromSide":"right","toNode":"b4f9aa0e48251aa9","toSide":"left"},
+		{"id":"8b2f2576b19bbccd","fromNode":"b4f9aa0e48251aa9","fromSide":"right","toNode":"9a2d43da96bbfbcd","toSide":"left"},
+		{"id":"cfa71a30067b89eb","fromNode":"b4f9aa0e48251aa9","fromSide":"right","toNode":"221ec8c451284d5d","toSide":"left"},
+		{"id":"f144a3fe4f992aad","fromNode":"b4f9aa0e48251aa9","fromSide":"right","toNode":"61868d178078fbd8","toSide":"left"},
+		{"id":"96dfeb8c0f4a1a75","fromNode":"61868d178078fbd8","fromSide":"right","toNode":"a34e8cb41c010f1d","toSide":"left"},
+		{"id":"3698ad63e372f168","fromNode":"221ec8c451284d5d","fromSide":"right","toNode":"f4d68981cd13162f","toSide":"left"},
+		{"id":"d77787a7def84d1c","fromNode":"221ec8c451284d5d","fromSide":"right","toNode":"582d01c2e35ba20c","toSide":"left"},
+		{"id":"5744f1669624612c","fromNode":"9a2d43da96bbfbcd","fromSide":"right","toNode":"5322704e75254b26","toSide":"left"},
+		{"id":"c2294d1ac6d5d58b","fromNode":"9a2d43da96bbfbcd","fromSide":"right","toNode":"bb3dbead2f8e3858","toSide":"left"},
+		{"id":"6a339ba3e945523e","fromNode":"9a2d43da96bbfbcd","fromSide":"right","toNode":"e1fb7842367e23b3","toSide":"left"},
+		{"id":"b2d77c771abdec70","fromNode":"e1fb7842367e23b3","fromSide":"right","toNode":"e19e59944c52f163","toSide":"left"}
+	]
+}
