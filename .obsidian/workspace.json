@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures.md",
+                "file": "Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creatures"
+              "title": "Story"
             }
           }
         ]
@@ -179,14 +179,14 @@
   },
   "active": "747b1374bcaa5bdf",
   "lastOpenFiles": [
-    "Gameplay.md",
-    "Major Characters.md",
-    "Player Mind Map Thingy.canvas",
     "Player UML.md",
+    "Major Characters.md",
+    "Gameplay.md",
+    "Creatures.md",
+    "Player Mind Map Thingy.canvas",
+    "Story.md",
     "Volac Moodboard.canvas",
     "Teodora Moodboard.canvas",
-    "Creatures.md",
-    "Story.md",
     "Moodboard/Volac/z1oqkx1l.bmp",
     "Moodboard/Volac/yzulx018.bmp",
     "Moodboard/Volac/y72oe7fk.bmp",
