@@ -11,17 +11,14 @@
             "id": "747b1374bcaa5bdf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "main/Volac Moodboard.canvas",
-                "viewState": {
-                  "x": 7814.72842741325,
-                  "y": -3138.669009582352,
-                  "zoom": -0.8633877842548343
-                }
+                "file": "main/Major Characters.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Volac Moodboard"
+              "icon": "lucide-file",
+              "title": "Major Characters"
             }
           }
         ]
@@ -182,15 +179,15 @@
   },
   "active": "747b1374bcaa5bdf",
   "lastOpenFiles": [
+    "main/Player Mind Map Thingy.canvas",
+    "main/Player UML.md",
+    "main/Story.md",
     "main/Major Characters.md",
-    "main/Volac Moodboard.canvas",
     "main/Creatures.md",
+    "main/Gameplay.md",
+    "main/Volac Moodboard.canvas",
     "main/Teodora Moodboard.canvas",
     "main",
-    "main/Story.md",
-    "main/Player UML.md",
-    "main/Gameplay.md",
-    "main/Player Mind Map Thingy.canvas",
     "main/Moodboard/Volac/z1oqkx1l.bmp",
     "main/Moodboard/Volac/yzulx018.bmp",
     "main/Moodboard/Volac/y72oe7fk.bmp",
