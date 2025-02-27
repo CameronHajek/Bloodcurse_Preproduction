@@ -11,14 +11,17 @@
             "id": "747b1374bcaa5bdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Story.md",
-                "mode": "source",
-                "source": false
+                "file": "main/Volac Moodboard.canvas",
+                "viewState": {
+                  "x": 7814.72842741325,
+                  "y": -3138.669009582352,
+                  "zoom": -0.8633877842548343
+                }
               },
-              "icon": "lucide-file",
-              "title": "Story"
+              "icon": "lucide-layout-dashboard",
+              "title": "Volac Moodboard"
             }
           }
         ]
@@ -179,27 +182,28 @@
   },
   "active": "747b1374bcaa5bdf",
   "lastOpenFiles": [
-    "Player UML.md",
-    "Major Characters.md",
-    "Gameplay.md",
-    "Creatures.md",
-    "Player Mind Map Thingy.canvas",
-    "Story.md",
-    "Volac Moodboard.canvas",
-    "Teodora Moodboard.canvas",
-    "Moodboard/Volac/z1oqkx1l.bmp",
-    "Moodboard/Volac/yzulx018.bmp",
-    "Moodboard/Volac/y72oe7fk.bmp",
-    "Moodboard/Volac/y6olb7eg.bmp",
-    "Moodboard/Volac/x2h4zw1b.bmp",
-    "Moodboard/Volac/wftk04jt.bmp",
-    "Moodboard/Volac/wc6mu8wv.bmp",
-    "Moodboard/Volac/w90j2uw7.bmp",
-    "Moodboard/Volac/uabrr5ae.bmp",
-    "Moodboard/Volac/u4s7ac2d.bmp",
-    "Moodboard/Volac",
-    "Moodboard/Teodora",
-    "Moodboard",
+    "main/Major Characters.md",
+    "main/Volac Moodboard.canvas",
+    "main/Creatures.md",
+    "main/Teodora Moodboard.canvas",
+    "main",
+    "main/Story.md",
+    "main/Player UML.md",
+    "main/Gameplay.md",
+    "main/Player Mind Map Thingy.canvas",
+    "main/Moodboard/Volac/z1oqkx1l.bmp",
+    "main/Moodboard/Volac/yzulx018.bmp",
+    "main/Moodboard/Volac/y72oe7fk.bmp",
+    "main/Moodboard/Volac/y6olb7eg.bmp",
+    "main/Moodboard/Volac/x2h4zw1b.bmp",
+    "main/Moodboard/Volac/wftk04jt.bmp",
+    "main/Moodboard/Volac/wc6mu8wv.bmp",
+    "main/Moodboard/Volac/w90j2uw7.bmp",
+    "main/Moodboard/Volac/uabrr5ae.bmp",
+    "main/Moodboard/Volac/u4s7ac2d.bmp",
+    "main/Moodboard/Volac",
+    "main/Moodboard/Teodora",
+    "main/Moodboard",
     "main/Bloodcurse_Vault/Gameplay.md",
     "main/Bloodcurse_Vault/Major Characters.md",
     "main/Bloodcurse_Vault/Player Mind Map Thingy.canvas",
