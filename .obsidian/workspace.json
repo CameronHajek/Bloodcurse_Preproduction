@@ -11,33 +11,17 @@
             "id": "747b1374bcaa5bdf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "main/Volac Moodboard.canvas",
-                "viewState": {
-                  "x": 5889.167144097313,
-                  "y": -3641.764644543802,
-                  "zoom": -0.6666666666666665
-                }
+                "file": "main/Enemies.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Volac Moodboard"
-            }
-          },
-          {
-            "id": "c54d574e8d61fd83",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Enemies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,16 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c54d574e8d61fd83",
+  "active": "747b1374bcaa5bdf",
   "lastOpenFiles": [
+    "main/Volac Moodboard.canvas",
     "main/Teodora Moodboard.canvas",
     "main/Major Characters.md",
     "main/Player Mind Map Thingy.canvas",
     "main/Player UML.md",
     "main/Story.md",
-    "main/Creatures.md",
+    "main/Enemies.md",
     "main/Gameplay.md",
-    "main/Volac Moodboard.canvas",
     "main",
     "main/Moodboard/Volac/z1oqkx1l.bmp",
     "main/Moodboard/Volac/yzulx018.bmp",
