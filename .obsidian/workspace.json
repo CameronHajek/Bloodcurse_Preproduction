@@ -11,14 +11,17 @@
             "id": "747b1374bcaa5bdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "main/Enemies.md",
-                "mode": "source",
-                "source": false
+                "file": "main/Volac Moodboard.canvas",
+                "viewState": {
+                  "x": 7884.788967603141,
+                  "y": -3194.702438113132,
+                  "zoom": -0.9999999999999998
+                }
               },
-              "icon": "lucide-file",
-              "title": "Enemies"
+              "icon": "lucide-layout-dashboard",
+              "title": "Volac Moodboard"
             }
           }
         ]
@@ -179,25 +182,29 @@
   },
   "active": "747b1374bcaa5bdf",
   "lastOpenFiles": [
-    "main/Volac Moodboard.canvas",
-    "main/Teodora Moodboard.canvas",
-    "main/Major Characters.md",
-    "main/Player Mind Map Thingy.canvas",
-    "main/Player UML.md",
     "main/Story.md",
+    "main/Player UML.md",
+    "main/Player Mind Map Thingy.canvas",
+    "main/Major Characters.md",
     "main/Enemies.md",
     "main/Gameplay.md",
+    "Pasted image 20250324151132.jpg",
+    "225px-DraculaCastleCharacterLocations.webp",
+    "BE3CD1FD-4120-41FC-A712-4B06C36DA235.webp",
+    "Castle_Dracula_-_Dracula_1992.webp",
+    "Castlevania_Manifestation.webp",
+    "Pasted image 20250324150627.jpg",
+    "main/Castle Moodboard.canvas",
+    "Pasted image 20250324151107.jpg",
+    "Pasted image 20250324151047.jpg",
+    "Pasted image 20250324150928.jpg",
+    "Pasted image 20250324150715.jpg",
+    "main/Teodora Moodboard.canvas",
+    "main/Volac Moodboard.canvas",
+    "main/Moodboard/Castle Vrykolakas",
+    "main/Castle Vrykolakas.md",
+    "main/Castle Vrykolakas",
     "main",
-    "main/Moodboard/Volac/z1oqkx1l.bmp",
-    "main/Moodboard/Volac/yzulx018.bmp",
-    "main/Moodboard/Volac/y72oe7fk.bmp",
-    "main/Moodboard/Volac/y6olb7eg.bmp",
-    "main/Moodboard/Volac/x2h4zw1b.bmp",
-    "main/Moodboard/Volac/wftk04jt.bmp",
-    "main/Moodboard/Volac/wc6mu8wv.bmp",
-    "main/Moodboard/Volac/w90j2uw7.bmp",
-    "main/Moodboard/Volac/uabrr5ae.bmp",
-    "main/Moodboard/Volac/u4s7ac2d.bmp",
     "main/Moodboard/Volac",
     "main/Moodboard/Teodora",
     "main/Moodboard",
@@ -213,7 +220,6 @@
     "main/Bloodcurse_Vault/Moodboard",
     "main/Bloodcurse_Vault/Creatures.md",
     "main/Bloodcurse_Vault",
-    "main",
     "Welcome.md"
   ]
 }
