@@ -11,12 +11,17 @@
             "id": "747b1374bcaa5bdf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "main/Moodboard/Castle Vrykolakas/ancient-stone-texture-antique-greek-roman-stone-background-with-beige-color-old-architecture_1014870-59647.avif"
+                "file": "main/Volac Moodboard.canvas",
+                "viewState": {
+                  "x": 5350,
+                  "y": -2880,
+                  "zoom": -2.31984411163951
+                }
               },
-              "icon": "lucide-image",
-              "title": "ancient-stone-texture-antique-greek-roman-stone-background-with-beige-color-old-architecture_1014870-59647"
+              "icon": "lucide-layout-dashboard",
+              "title": "Volac Moodboard"
             }
           }
         ]
@@ -175,8 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0ce5de7ab966df6",
+  "active": "747b1374bcaa5bdf",
   "lastOpenFiles": [
+    "main/Moodboard/Castle Vrykolakas/il_570xN.3065253101_f01x.webp",
+    "main/Volac Moodboard.canvas",
+    "main/Castle Moodboard.canvas",
+    "main/Moodboard/Castle Vrykolakas/ancient-stone-texture-antique-greek-roman-stone-background-with-beige-color-old-architecture_1014870-59647.avif",
     "main/Moodboard/Castle Vrykolakas/environment-a-giant-aquifer-under-siege_thumbnail.avif",
     "main/Moodboard/Castle Vrykolakas/Pasted image 20250325162354.jpg",
     "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163008.jpg",
@@ -185,10 +194,6 @@
     "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163310.jpg",
     "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163418.jpg",
     "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163637.jpg",
-    "main/Moodboard/Castle Vrykolakas/ancient-stone-texture-antique-greek-roman-stone-background-with-beige-color-old-architecture_1014870-59647.avif",
-    "main/Castle Moodboard.canvas",
-    "main/Moodboard/Castle Vrykolakas/european-medieval-castle-exterior-stone-wall-texture-background-moss-lichens-weathered-aging-medieval-castle-stone-156723252.webp",
-    "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163410.jpg",
     "main/Enemies.md",
     "main/Gameplay.md",
     "main/Major Characters.md",
@@ -196,7 +201,6 @@
     "main/Player UML.md",
     "main/Story.md",
     "main/Teodora Moodboard.canvas",
-    "main/Volac Moodboard.canvas",
     "main/Moodboard/Castle Vrykolakas",
     "main/Castle Vrykolakas.md",
     "main/Castle Vrykolakas",
