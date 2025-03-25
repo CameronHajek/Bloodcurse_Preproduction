@@ -11,17 +11,12 @@
             "id": "747b1374bcaa5bdf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "main/Castle Moodboard.canvas",
-                "viewState": {
-                  "x": 705.4383383383386,
-                  "y": -46.850050050050044,
-                  "zoom": -0.5994274106596147
-                }
+                "file": "main/Moodboard/Castle Vrykolakas/ancient-stone-texture-antique-greek-roman-stone-background-with-beige-color-old-architecture_1014870-59647.avif"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Castle Moodboard"
+              "icon": "lucide-image",
+              "title": "ancient-stone-texture-antique-greek-roman-stone-background-with-beige-color-old-architecture_1014870-59647"
             }
           }
         ]
@@ -180,8 +175,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "747b1374bcaa5bdf",
+  "active": "e0ce5de7ab966df6",
   "lastOpenFiles": [
+    "main/Moodboard/Castle Vrykolakas/environment-a-giant-aquifer-under-siege_thumbnail.avif",
+    "main/Moodboard/Castle Vrykolakas/Pasted image 20250325162354.jpg",
+    "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163008.jpg",
+    "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163020.jpg",
+    "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163049.jpg",
+    "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163310.jpg",
+    "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163418.jpg",
+    "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163637.jpg",
+    "main/Moodboard/Castle Vrykolakas/ancient-stone-texture-antique-greek-roman-stone-background-with-beige-color-old-architecture_1014870-59647.avif",
+    "main/Castle Moodboard.canvas",
+    "main/Moodboard/Castle Vrykolakas/european-medieval-castle-exterior-stone-wall-texture-background-moss-lichens-weathered-aging-medieval-castle-stone-156723252.webp",
+    "main/Moodboard/Castle Vrykolakas/Pasted image 20250325163410.jpg",
     "main/Enemies.md",
     "main/Gameplay.md",
     "main/Major Characters.md",
@@ -190,17 +197,6 @@
     "main/Story.md",
     "main/Teodora Moodboard.canvas",
     "main/Volac Moodboard.canvas",
-    "main/Moodboard/Castle Vrykolakas/Pasted image 20250324150116.jpg",
-    "main/Moodboard/Castle Vrykolakas/why-did-they-always-call-the-castle-draculas-castle-instead-v0-v2x280i0orv81.webp",
-    "main/Moodboard/Castle Vrykolakas/Pasted image 20250324151132.jpg",
-    "main/Moodboard/Castle Vrykolakas/Pasted image 20250324151107.jpg",
-    "main/Moodboard/Castle Vrykolakas/Pasted image 20250324151047.jpg",
-    "main/Moodboard/Castle Vrykolakas/Pasted image 20250324150928.jpg",
-    "main/Moodboard/Castle Vrykolakas/Pasted image 20250324150715.jpg",
-    "main/Moodboard/Castle Vrykolakas/Pasted image 20250324150709.jpg",
-    "main/Moodboard/Castle Vrykolakas/Pasted image 20250324150627.jpg",
-    "main/Moodboard/Castle Vrykolakas/Castlevania_Manifestation.webp",
-    "main/Castle Moodboard.canvas",
     "main/Moodboard/Castle Vrykolakas",
     "main/Castle Vrykolakas.md",
     "main/Castle Vrykolakas",
