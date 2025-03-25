@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "main/Volac Moodboard.canvas",
+                "file": "main/Castle Moodboard.canvas",
                 "viewState": {
-                  "x": 5195.223736968726,
-                  "y": -2730.2165196471533,
-                  "zoom": -2.31984411163951
+                  "x": 705.4383383383386,
+                  "y": -46.850050050050044,
+                  "zoom": -0.5994274106596147
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Volac Moodboard"
+              "title": "Castle Moodboard"
             }
           }
         ]
@@ -182,6 +182,14 @@
   },
   "active": "747b1374bcaa5bdf",
   "lastOpenFiles": [
+    "main/Enemies.md",
+    "main/Gameplay.md",
+    "main/Major Characters.md",
+    "main/Player Mind Map Thingy.canvas",
+    "main/Player UML.md",
+    "main/Story.md",
+    "main/Teodora Moodboard.canvas",
+    "main/Volac Moodboard.canvas",
     "main/Moodboard/Castle Vrykolakas/Pasted image 20250324150116.jpg",
     "main/Moodboard/Castle Vrykolakas/why-did-they-always-call-the-castle-draculas-castle-instead-v0-v2x280i0orv81.webp",
     "main/Moodboard/Castle Vrykolakas/Pasted image 20250324151132.jpg",
@@ -192,16 +200,7 @@
     "main/Moodboard/Castle Vrykolakas/Pasted image 20250324150709.jpg",
     "main/Moodboard/Castle Vrykolakas/Pasted image 20250324150627.jpg",
     "main/Moodboard/Castle Vrykolakas/Castlevania_Manifestation.webp",
-    "main/Moodboard/Castle Vrykolakas/Castle_Dracula_-_Dracula_1992.webp",
-    "main/Volac Moodboard.canvas",
-    "main/Story.md",
-    "main/Player UML.md",
-    "main/Player Mind Map Thingy.canvas",
-    "main/Major Characters.md",
-    "main/Enemies.md",
-    "main/Gameplay.md",
     "main/Castle Moodboard.canvas",
-    "main/Teodora Moodboard.canvas",
     "main/Moodboard/Castle Vrykolakas",
     "main/Castle Vrykolakas.md",
     "main/Castle Vrykolakas",
