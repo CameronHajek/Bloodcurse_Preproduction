@@ -29,7 +29,7 @@
 		{"id":"0f44c37e3e1ef8fd","type":"file","file":"main/Moodboard/Castle Vrykolakas/Pasted image 20250325163418.jpg","x":1660,"y":560,"width":400,"height":294},
 		{"id":"a7b3cdee5bf87b43","type":"file","file":"main/Moodboard/Castle Vrykolakas/european-medieval-castle-exterior-stone-wall-texture-background-moss-lichens-weathered-aging-medieval-castle-stone-156723252.webp","x":1980,"y":120,"width":267,"height":400},
 		{"id":"3c68a03e601ffb1c","type":"file","file":"main/Moodboard/Castle Vrykolakas/Pasted image 20250325163637.jpg","x":1920,"y":-180,"width":400,"height":254},
-		{"id":"d84a56fe03de449b","x":2000,"y":-640,"width":400,"height":400,"type":"file","file":"main/Moodboard/Castle Vrykolakas/il_570xN.3065253101_f01x.webp"}
+		{"id":"d84a56fe03de449b","type":"file","file":"main/Moodboard/Castle Vrykolakas/il_570xN.3065253101_f01x.webp","x":2000,"y":-640,"width":400,"height":400}
 	],
 	"edges":[]
 }
