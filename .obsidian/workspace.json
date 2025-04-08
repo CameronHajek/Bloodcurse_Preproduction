@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "main/Castle Moodboard.canvas",
+                "file": "main/Teodora Moodboard.canvas",
                 "viewState": {
-                  "x": 1120,
-                  "y": 13,
-                  "zoom": -1.1751858688076273
+                  "x": 7074.744343574969,
+                  "y": -3290.2149006221143,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Castle Moodboard"
+              "title": "Teodora Moodboard"
             }
           }
         ]
@@ -182,16 +182,16 @@
   },
   "active": "747b1374bcaa5bdf",
   "lastOpenFiles": [
-    "main/Enemies.md",
-    "main/Gameplay.md",
-    "main/Major Characters.md",
-    "main/Player Mind Map Thingy.canvas",
-    "main/Player UML.md",
-    "main/Story.md",
-    "main/Teodora Moodboard.canvas",
     "main/Volac Moodboard.canvas",
-    "main/Moodboard/Castle Vrykolakas/il_570xN.3065253101_f01x.webp",
+    "main/Major Characters.md",
+    "main/Teodora Moodboard.canvas",
+    "main/Story.md",
     "main/Castle Moodboard.canvas",
+    "main/Gameplay.md",
+    "main/Player Mind Map Thingy.canvas",
+    "main/Enemies.md",
+    "main/Player UML.md",
+    "main/Moodboard/Castle Vrykolakas/il_570xN.3065253101_f01x.webp",
     "main/Moodboard/Castle Vrykolakas/ancient-stone-texture-antique-greek-roman-stone-background-with-beige-color-old-architecture_1014870-59647.avif",
     "main/Moodboard/Castle Vrykolakas/environment-a-giant-aquifer-under-siege_thumbnail.avif",
     "main/Moodboard/Castle Vrykolakas/Pasted image 20250325162354.jpg",
