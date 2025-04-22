@@ -15,9 +15,9 @@
               "state": {
                 "file": "main/Teodora Moodboard.canvas",
                 "viewState": {
-                  "x": 7074.744343574969,
-                  "y": -3290.2149006221143,
-                  "zoom": 1.1102230246251565e-16
+                  "x": 6155.129119975628,
+                  "y": -2946.8441375515936,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "501add67351a2187",
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
