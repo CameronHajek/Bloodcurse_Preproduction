@@ -21,7 +21,7 @@ ___
 - Quick to Act
 ### Bio
 ___
-Conceived during the demonic invasion of 1300 she was quickly taken to the church to be made into a warrior for the sake of humanity. Her father was a Demon that invaded her home village and defiled the women. Raised within the church she is very pious. Her heritage is unknown to her with the church keeping it from her all her life. She due to her demonic blood she has the ability to absorb dark power from the dark forces of hell. The true extent of her power is unknown. 
+Conceived during the demonic invasion of 1300 she was quickly taken to the church to be made into a warrior for the sake of humanity. Her father was a Demon that invaded her home village and defiled the women. Raised within the church she is very pious. Her heritage is unknown to her with the church keeping it from her all her life. Due to her demonic blood she has the ability to absorb power from the dark forces of hell. The true extent of her power is unknown. 
 ## Father Dimitri Petrov
 ___
 ### Age

@@ -11,17 +11,14 @@
             "id": "747b1374bcaa5bdf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "main/Teodora Moodboard.canvas",
-                "viewState": {
-                  "x": 6155.129119975628,
-                  "y": -2946.8441375515936,
-                  "zoom": 1
-                }
+                "file": "main/Major Characters.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Teodora Moodboard"
+              "icon": "lucide-file",
+              "title": "Major Characters"
             }
           }
         ]
@@ -182,14 +179,14 @@
   },
   "active": "747b1374bcaa5bdf",
   "lastOpenFiles": [
-    "main/Volac Moodboard.canvas",
-    "main/Major Characters.md",
-    "main/Teodora Moodboard.canvas",
-    "main/Story.md",
-    "main/Castle Moodboard.canvas",
     "main/Gameplay.md",
-    "main/Player Mind Map Thingy.canvas",
+    "main/Major Characters.md",
     "main/Enemies.md",
+    "main/Castle Moodboard.canvas",
+    "main/Teodora Moodboard.canvas",
+    "main/Volac Moodboard.canvas",
+    "main/Story.md",
+    "main/Player Mind Map Thingy.canvas",
     "main/Player UML.md",
     "main/Moodboard/Castle Vrykolakas/il_570xN.3065253101_f01x.webp",
     "main/Moodboard/Castle Vrykolakas/ancient-stone-texture-antique-greek-roman-stone-background-with-beige-color-old-architecture_1014870-59647.avif",
